@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "install" : "node App.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node App.js",
+    "install": "echo 'Dependencies installed!'"
   },
   "author": "",
   "license": "ISC",
